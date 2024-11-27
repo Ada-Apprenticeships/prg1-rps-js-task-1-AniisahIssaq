@@ -16,7 +16,7 @@ function rockPaperScissors(player1, player2) {
 console.log(rockPaperScissors());
 
 
-// Leave this code here for the automated tests
+// Leave this code here for the automated tests.
 module.exports = {
   rockPaperScissors,
 }
